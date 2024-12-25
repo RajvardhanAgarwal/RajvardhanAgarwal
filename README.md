@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rajvardhan Agarwal</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+# Hey, I’m Rajvardhan Agarwal! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajvardhanagarwal" alt="rajvardhanagarwal" /></a> </p>
+<img src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg" width="32%" alt="vector" align="right">
 
-<p align="left"> <a href="https://twitter.com/rajvardhanagrwl" target="blank"><img src="https://img.shields.io/twitter/follow/rajvardhanagrwl?logo=twitter&style=for-the-badge" alt="rajvardhanagrwl" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=FullStack+Developer+🧑‍💻;Data+Analyst+📊🔒;Coder+💻;Problem+Solver+🔨;)](https://git.io/typing-svg)
+<div align = "left">
 
-- 🌱 I’m currently learning **Devops**
+👀 I am a Web and AI Geek\
+🤖 Currently learning Devops\
+🫂 Looking for collaborating on real-world Web Projects\
+📖 I'm seeking internship and part-time work opportunities in Web Development (Full Stack)\
+📫 rajvardhansmailbox@gmail.com\
+🕸️ [My Portfolio]()
 
-- 💬 Ask me about **Anything you want**
-
-- 📫 How to reach me **rajvardhansmailbox@gmail.com**
-
+</div>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajvardhanagrwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvardhanagrwl" height="30" width="40" /></a>
